@@ -1,5 +1,5 @@
 <div>
-    <img src="art-invariance.jpeg" width="59%" height="500px">
+    <img src="art/invariance.jpeg" width="59%" height="500px">
 </div>
 
 ```py
